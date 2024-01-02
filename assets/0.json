@@ -1,0 +1,34 @@
+{
+  "name": "Yeti #0",
+  "symbol": "YTSOL",
+  "description": "GG",
+  "seller_fee_basis_points": 250,
+  "image": "/assets/images/0.jpeg",
+  "external_url": "",
+  "collection": { "name": "Yetis On Solana", "family": "LaunchMyNFT" },
+  "attributes": [
+    { "trait_type": "Background", "value": "Nude" },
+    { "trait_type": "Fur", "value": "Mud" },
+    { "trait_type": "Shirt", "value": "Back Pack" },
+    { "trait_type": "Eyes", "value": "Chill" },
+    { "trait_type": "Mouth", "value": "Autumn Leaf" },
+    { "trait_type": "Hats", "value": "Gang Cap" },
+    { "trait_type": "Accessories", "value": "Yeti Earrings" },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 1443,
+      "display_type": "number",
+      "max_value": 1500
+    }
+  ],
+  "properties": {
+    "files": [{ "uri": "/assets/images/0.jpeg", "type": "image/jpeg" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9HiKopQDdCdGarJ7Gb4bBXbz5cAvpUPwVusNM58jkQmS",
+        "share": 100
+      }
+    ]
+  }
+}
